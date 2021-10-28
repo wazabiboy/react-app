@@ -38,9 +38,9 @@ class Counter extends Component {
             <>
 
                 <span>{this.state.count}</span> <br /><br />
-                <button type="button" className="btn btn-primary" onClick={() => this.handleChange("plus")}> + </button>
-                ||  <button type="button" className="btn btn-danger" onClick={() => this.handleChange("moins")}> - </button>
-                ||  <button type="button" className="btn btn-orange" onClick={() => this.handleChange("zero")}> Reset</button>
+                <button type="button" className="btn btn-" onClick={() => this.handleChange("plus")}> + </button>
+                ||  <button type="button" className="btn btn-primary" onClick={() => this.handleChange("moins")}> - </button>
+                ||  <button type="button" className="btn btn-danger" onClick={() => this.handleChange("zero")}> Reset</button>
 
                 <br /><br />
 
