@@ -1,7 +1,8 @@
-{"homepage": "https://github.com/wazabiboy/react-app/blob/gh-pages/index.html",
-  "name": "tuto-bertrand",
-  "version": "0.1.0",
-  "private": true,
+{
+"name": "tuto-bertrand",
+"version": "0.1.0",
+"private": true,
+"homepage": "https://github.com/wazabiboy/react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
